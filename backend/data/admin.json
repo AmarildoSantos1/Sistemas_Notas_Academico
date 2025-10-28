@@ -1,0 +1,7 @@
+{
+  "usuario": "admin",
+  "pwd_scheme": "pbkdf2_sha256",
+  "iterations": 120000,
+  "salt": "4eb1013fbb00dc6acb868ca8918e9374",
+  "pwd_hash": "2b7f7c102bb8a9591aff4a1ce4cea816242373e0388e6d8e86652a165bc0fd35"
+}
